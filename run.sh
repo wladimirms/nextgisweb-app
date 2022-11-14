@@ -1,0 +1,1 @@
+docker run -p 8080:8080 -v /opt/nextgis:/opt/nextgis --name NGW tsnigri/nextgisweb:latest
